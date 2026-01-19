@@ -1,16 +1,44 @@
-## Hi there 👋
+Hi there 👋  
 
-<!--
-**aytheia14/aytheia14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+I'm documenting my **90-days internship journey as a Junior Data Analyst**.  
+This repository is a place where I share my learning progress, projects, and hands-on experience in the field of data analytics.
 
-Here are some ideas to get you started:
+📊 **Data Analytics** is the process of analyzing large datasets to discover patterns, trends, and meaningful insights that support data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am focusing on improving my skills in data processing, analysis, and visualization as part of my commitment to continuous learning and professional growth.
+
+---
+
+## 💻 Technologies Used
+- 📊 Google Spreadsheet / Microsoft Excel  
+- 🔧 Google Apps Script  
+- 📈 Looker Studio  
+- 🐍 Python (Pandas, NumPy)  
+- 🗄️ MySQL  
+
+---
+
+## 📌 Projects
+- 📋 **Telegram Attendance Bot → Google Sheets**  
+  Automated attendance system using Telegram Bot and Google Sheets
+
+- 📊 **Attendance Dashboard (Looker Studio)**  
+  Interactive dashboard for monitoring attendance data
+
+- 🧑‍🎓 **Student Management System**  
+  Simple system for managing student data using spreadsheets and database
+
+---
+
+## 🗓️ Internship Focus
+- Data Collection & Data Cleaning  
+- Data Analysis & Reporting  
+- Dashboard & Data Visualization  
+- Automation with Google Apps Script  
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/aytheia14
+- Medium: https://medium.com/@crofies14 
