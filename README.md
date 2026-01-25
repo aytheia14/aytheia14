@@ -41,8 +41,10 @@ Currently, I am focusing on improving my skills in data processing, analysis, an
 
 |**Week :calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
 |------|--------------------|---------------------|
-|Week 1| Teacher's Daily Teaching Journal System & Sales Data Management Telegram Bot | [Membuat Aplikasi Otomatisasi Menggunakan Google Apps Script](https://edusoftcenter.com/membuat-aplikasi-otomatisasi-menggunakan-google-apps-script-pendekatan-praktis-untuk-data-analyst-pemula/)|
-|Week 2| Data Collection & Understanding | [Practice Documentation](https://docs.google.com/document/d/1hMSn5xx9wiwHImIecbeUAoLlw0N5DYbAizJZr_oMToE/edit?usp=sharing)|
+|Week 1| Orientasi Industri & Literasi Data | |
+|Week 2| Data Collection & Understanding | [Practice Documentation](https://drive.google.com/drive/u/0/folders/1rkTgsz2oBAilV05fkrkaBDTyvC8im7mT)|
+
+---
 
 ## 📫 Contact Me
 - GitHub: https://github.com/aytheia14
