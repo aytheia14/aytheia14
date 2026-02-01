@@ -42,7 +42,8 @@ Currently, I am focusing on improving my skills in data processing, analysis, an
 |**Week :calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
 |------|--------------------|---------------------|
 |Week 1| Orientasi Industri & Literasi Data | |
-|Week 2| Data Collection & Understanding | [Practice Documentation](https://drive.google.com/drive/u/0/folders/1rkTgsz2oBAilV05fkrkaBDTyvC8im7mT)|
+|Week 2| Data Collection & Understanding | [- 📅 Day 1: [Creating Tables and Running Basic SQL Queries Using Command Line](https://medium.com/@crofies14/week-2-day-1-database-setup-initial-exploration-using-command-line-a72cc65b20f0)
+|
 
 ---
 
