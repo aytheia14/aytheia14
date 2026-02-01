@@ -19,6 +19,15 @@ Currently, I am focusing on improving my skills in data processing, analysis, an
 
 ---
 
+### 🎓 Certifications & Credentials
+- **Fundamental Data Science** — Dicoding Indonesia  
+  *Issued: Oct 2025 | Online Learning Certification*  
+
+- **Industry-Standard Programming Basics** — Dicoding Indonesia  
+  *Issued: Nov 2025 | Competency Level: Very Competent*
+
+---
+
 ## 📌 Projects
 - 📋 **Telegram Attendance Bot → Google Sheets**  
   Automated attendance system using Telegram Bot and Google Sheets
