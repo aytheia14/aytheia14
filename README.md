@@ -62,10 +62,6 @@ Currently, I am focusing on improving my skills in data processing, analysis, an
 |
 
 
-
-
-
-
 ---
 
 ## 📫 Contact Me
