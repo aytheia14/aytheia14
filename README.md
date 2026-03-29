@@ -55,7 +55,8 @@ Currently, I am focusing on improving my skills in data processing, analysis, an
 |                     |                                        |📅 Day 2: [Using Alias and String Functions in SQL Queries](https://medium.com/@crofies14/week-2-day-2-using-alias-and-string-functions-in-sql-queries-368965338daa) | 
 |                     |                                        |📅 Day 3: [Filtering Data Using WHERE, OR, and AND in SQL](https://medium.com/@crofies14/week-2-day-3-filtering-data-using-where-and-logical-operators-in-sql-150107f611b0) |
 |                     |                                        |📅 Day 4: [Using Mathematical and String Functions in SQL (Practice with Students Table)](https://medium.com/@crofies14/week-2-day-4-using-mathematical-and-string-functions-in-sql-practice-with-students-table-0376401e3f13) | 
-|                     |                                        |📅 Day 5: [SQL Quiz Practice and Query Review](https://medium.com/@crofies14/week-2-day-5-sql-quiz-practice-and-query-review-3944564fde7c) | 📅 Day 6: [Exploring Transaction Data and Calculating Total Sales Using SQL](https://medium.com/@crofies14/week-2-day-6-exploring-transaction-data-and-calculating-total-sales-using-sql-7df7ae4d13e7) |
+|                     |                                        |📅 Day 5: [SQL Quiz Practice and Query Review](https://medium.com/@crofies14/week-2-day-5-sql-quiz-practice-and-query-review-3944564fde7c) | 
+|                     |                                        |📅 Day 6: [Exploring Transaction Data and Calculating Total Sales Using SQL](https://medium.com/@crofies14/week-2-day-6-exploring-transaction-data-and-calculating-total-sales-using-sql-7df7ae4d13e7) |
 |                     |                                        |📅 Day 7: [dvanced SQL Queries Using JOIN, DISTINCT, and UNION](https://medium.com/@crofies14/week-2-day-7-advanced-sql-queries-using-join-distinct-and-union-8cf47c29dbcf) |
 
 
