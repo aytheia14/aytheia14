@@ -58,7 +58,7 @@ Currently, I am focusing on improving my skills in data processing, analysis, an
 |                     |                                        |📅 Day 5: [SQL Quiz Practice and Query Review](https://medium.com/@crofies14/week-2-day-5-sql-quiz-practice-and-query-review-3944564fde7c) | 
 |                     |                                        |📅 Day 6: [Exploring Transaction Data and Calculating Total Sales Using SQL](https://medium.com/@crofies14/week-2-day-6-exploring-transaction-data-and-calculating-total-sales-using-sql-7df7ae4d13e7) |
 |                     |                                        |📅 Day 7: [dvanced SQL Queries Using JOIN, DISTINCT, and UNION](https://medium.com/@crofies14/week-2-day-7-advanced-sql-queries-using-join-distinct-and-union-8cf47c29dbcf) |
-|week 3               | Sistem Jadwal Kampus                   |          [Website Jadwal Kampus] (https://script.google.com/macros/s/AKfycbzZssNooZDDRn2WIgM-W6VKjl2MezmwnbHAiUPATXjcprLJ_a8sWpc3PEmh1bUvaSAqyA/exec?page=jadwal) |
+|week 3               | Sistem Jadwal Kampus                   |           (https://script.google.com/macros/s/AKfycbzZssNooZDDRn2WIgM-W6VKjl2MezmwnbHAiUPATXjcprLJ_a8sWpc3PEmh1bUvaSAqyA/exec?page=jadwal) |
 
 
 
