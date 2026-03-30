@@ -50,7 +50,7 @@ Currently, I am focusing on improving my skills in data processing, analysis, an
 
 | **Week :calendar:** | **Lessons / Tasks Done :alarm_clock:** | **Reference Links :link:** | 
 |---------------------|----------------------------------------|----------------------------|
-| Week 1              | Orientasi Industri & Literasi Data     |                            | 
+| Week 1              | Sistem Jadwal Kampus                   | https://script.google.com/macros/s/AKfycbzZssNooZDDRn2WIgM-W6VKjl2MezmwnbHAiUPATXjcprLJ_a8sWpc3PEmh1bUvaSAqyA/exec        | 
 | Week 2              | Data Collection & Understanding        | 📅 Day 1: [Creating Tables and Running Basic SQL Queries Using Command Line](https://medium.com/@crofies14/week-2-day-1-database-setup-initial-exploration-using-command-line-a72cc65b20f0) |
 |                     |                                        |📅 Day 2: [Using Alias and String Functions in SQL Queries](https://medium.com/@crofies14/week-2-day-2-using-alias-and-string-functions-in-sql-queries-368965338daa) | 
 |                     |                                        |📅 Day 3: [Filtering Data Using WHERE, OR, and AND in SQL](https://medium.com/@crofies14/week-2-day-3-filtering-data-using-where-and-logical-operators-in-sql-150107f611b0) |
