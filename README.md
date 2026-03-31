@@ -62,7 +62,8 @@ Currently, I am focusing on improving my skills in data processing, analysis, an
 | week 4               | Aplikasi CRUD kasir                    |           https://script.google.com/macros/s/AKfycbyA3AFhkBvAX7GEqBXamMuV8e84P0D3GzLfaHrNG_3biBg3l0YUyqmlMI_4U7ywIqf8Rw/exec  |
 | week 5               | Admin Konveksi                         |           https://script.google.com/macros/s/AKfycby6-m6zP3Sl7P-dZvXvgUHbYvZntluD1LFXEKlcCxABkOaW9424Dh7oHUilRx8-zKXKpw/exec        |
 | week 6               | Retail sales analysis                  | https://docs.google.com/presentation/d/1meb2HmFUlQmNaRDqOe_ctV5o7L6ZmU6j/edit?usp=drive_link&ouid=100203816692046023021&rtpof=true&sd=true        |
-| week 7               | Repository & Blog demo                 | 
+| week 7               | Repository & Blog demo                 | [Repository : ](https://medium.com/@crofies14/week-2-day-1-database-setup-initial-exploration-using-command-line-a72cc65b20f0)  |
+
 
 
 
